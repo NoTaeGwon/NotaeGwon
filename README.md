@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=90&desc=This is NoTaeGwom githup" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!%20&fontSize=90&&desc=This%20is%20NoTaeGwon%20github" />
+
 **NoTaeGwon/NotaeGwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
