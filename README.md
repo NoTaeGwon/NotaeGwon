@@ -32,6 +32,9 @@ Here are some ideas to get you started:
 <br>
 
 ## 🏅 Baekjoon solved rank
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tg0926)](https://solved.ac/tg0926/)
+
+<br>
 
 </div>
